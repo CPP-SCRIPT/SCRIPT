@@ -1,0 +1,2 @@
+# SCRIPT
+./script website
