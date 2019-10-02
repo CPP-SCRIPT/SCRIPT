@@ -351,6 +351,12 @@ h6, .h6 {
   font-weight: 300;
   line-height: 1.2; }
 
+.display-5 {
+    font-size: 24rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
 hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -8909,16 +8915,20 @@ body {
 .display-1,
 .display-2,
 .display-3,
-.display-4 {
+.display-4,
+.dlsplay-5{
   font-family: "Hack", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
-  .text-white .display-1, .display-1.text-white, .text-white
-  .display-2,
-  .display-2.text-white, .text-white
-  .display-3,
-  .display-3.text-white, .text-white
-  .display-4,
-  .display-4.text-white {
-    text-shadow: -1px -1px rgba(255, 255, 255, 0.2); }
+    .text-white .display-1, .display-1.text-white, .text-white
+    .display-2,
+    .display-2.text-white, .text-white
+    .display-3,
+    .display-3.text-white, .text-white
+    .display-4,
+    .display-4.text-white
+    .display-5,
+    .display-5.text-white.text-white {
+        text-shadow: -1px -1px rgba(255, 255, 255, 0.2);
+    }
 
 .text-reduced-opacity {
   opacity: .5; }
