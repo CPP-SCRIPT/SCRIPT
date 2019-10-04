@@ -1,2 +1,3 @@
 # SCRIPT
-./script website
+
+https://cpp-script.github.io/SCRIPT/
