@@ -93,6 +93,10 @@ address {
   font-style: normal;
   line-height: inherit; }
 
+div {
+  width: 600px; height: 360px; margin-bottom: 10px;
+}
+
 ol,
 ul,
 dl {
