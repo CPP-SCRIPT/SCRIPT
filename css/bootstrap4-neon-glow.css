@@ -63,8 +63,7 @@ body {
 
 #net{
     position: absolute;
-    top: 40px; /* Header Height */
-    bottom: 20px; /* Footer Height */
+    height: 100%;
     width: 100%;
 }
 
