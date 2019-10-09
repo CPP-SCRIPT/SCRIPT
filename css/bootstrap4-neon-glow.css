@@ -61,7 +61,7 @@ body {
   text-align: left;
   background-color: #0c0d16; }
 
-.mainbody{
+#net{
     position: absolute;
     top: 40px; /* Header Height */
     bottom: 20px; /* Footer Height */
