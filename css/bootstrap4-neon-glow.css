@@ -61,12 +61,6 @@ body {
   text-align: left;
   background-color: #0c0d16; }
 
-#net{
-    position: absolute;
-    height: 100%;
-    width: 100%;
-}
-
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
@@ -103,6 +97,12 @@ div {
   width: 600px; height: 360px; margin-bottom: 10px;
 }
 
+#net {
+
+  height: 100%;
+
+
+}
 ol,
 ul,
 dl {
@@ -347,22 +347,22 @@ h6, .h6 {
   line-height: 1.2; }
 
 .display-2 {
-  font-size: 3.5vw;
+  font-size: 3.5rem;
   font-weight: 300;
   line-height: 1.2; }
 
 .display-3 {
-  font-size: 2.5vw;
+  font-size: 2.5rem;
   font-weight: 300;
   line-height: 1.2; }
 
 .display-4 {
-  font-size: 2vw;
+  font-size: 2rem;
   font-weight: 300;
   line-height: 1.2; }
 
 .display-5 {
-    font-size: 8vw;
+    font-size: 8rem;
     font-weight: 300;
     line-height: 1.2;
 }
@@ -8694,7 +8694,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 @media (max-width: 767.98px) {
     .display-5 {
-        font-size: 8rem;
+        font-size: 8vx;
     }
 }
 body {
